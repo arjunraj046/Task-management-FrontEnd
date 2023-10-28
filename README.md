@@ -33,7 +33,7 @@ Before you begin, ensure you have met the following requirements:
 
 
 
-3. Running the Application : # npm run dev
+3. Running the Application : npm run dev
 
 
 
