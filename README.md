@@ -1,3 +1,63 @@
+
+# Task Management Application
+
+## Introduction
+
+The Task Management Application is a small web application for managing your tasks. It is built using Redux Toolkit (RTK) and TypeScript, providing a simple and efficient way to manage your tasks.
+
+## Features
+
+- Add new tasks with details.
+- Edit existing tasks.
+- Set task priorities.
+- Set task due dates and times.
+- Upload task images.
+
+## Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine.
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Node.js: Make sure you have Node.js installed on your system. You can download it from [https://nodejs.org/](https://nodejs.org/).
+
+### Installation
+
+1. Clone the repository:
+
+ 
+
+2. Install the project dependencies:     npm install
+
+
+
+3. Running the Application : npm run dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
